@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/larytertuliano/Documents/laryKitura/.build/checkouts/omr-agentcore/src/agentcore/include"
+    export *
+}

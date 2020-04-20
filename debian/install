@@ -1,0 +1,3 @@
+.build/							usr/src/laryKitura
+terraform/scripts/install.sh	usr/src/laryKitura
+terraform/scripts/start.sh		usr/src/laryKitura
